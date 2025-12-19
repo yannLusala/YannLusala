@@ -1,16 +1,19 @@
-## Hi there 👋
+# Bonjour, je suis Yann 👋
 
-<!--
-**yannLusala/YannLusala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Ingénieur logiciel de formation (Bachelor en Software Engineering)  
+💻 Passionné par le développement web et les systèmes d’information  
+📍 Actuellement étudiant en France
 
-Here are some ideas to get you started:
+## Compétences techniques
+- Frontend : HTML, CSS, JavaScript, React (bases)
+- Backend : PHP (POO), PDO, MySQL
+- Outils : Git, GitHub, VS Code, Figma, Lunacy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projets
+- Applications web interactives  
+- Systèmes CRUD  
+- Projets orientés bonnes pratiques et structuration du code
+
+## Objectif
+Intégrer un Master en Informatique / Génie Logiciel et évoluer vers des
+systèmes informatiques performants et sécurisés.
