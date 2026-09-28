@@ -5,8 +5,8 @@
 📍 Actuellement étudiant en France
 
 ## Compétences techniques
-- Frontend : HTML, CSS, JavaScript, React (bases)
-- Backend : PHP (POO), PDO, MySQL
+- Frontend : HTML, CSS, JavaScript, React
+- Backend : PHP (POO, PDO),Python, MySQL
 - Outils : Git, GitHub, VS Code, Figma, Lunacy
 
 ## Projets
